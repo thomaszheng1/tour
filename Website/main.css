@@ -845,7 +845,7 @@ input[type=submit]:hover{
 @media screen and (max-width: 1200px){
 	.section_reviews{
 		margin-top: -35rem;
-		height: 190rem;
+		height: 200rem;
 	}
 }
 
